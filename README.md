@@ -1,3 +1,9 @@
+ch-0-intro
+## Learning Goals
+
+- Open Source Contribution
+- GitHub Workflow
+
 ## Introduction
 
 Hello everyone!
