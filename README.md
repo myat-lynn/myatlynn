@@ -1,16 +1,4 @@
-# Hi, I'm Myat Linn 👋
+## Learning Goals
 
-## About Me
-- Developer
-- Designer
-- Interested in AI, Automation and Cloud Technologies
-
-## Skills
-- Figma
-- Design
-
-## Current Goals
-- Improve System Design Skills
-- Learn AI Agents and Automation
-- Contribute to Open Source
-
+- Open Source Contribution
+- GitHub Workflow
