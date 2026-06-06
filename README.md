@@ -1,16 +1,8 @@
-# Hi, I'm Myat Linn 👋
+## Introduction
 
-## About Me
-- Developer
-- Designer
-- Interested in AI, Automation and Cloud Technologies
+Hello everyone!
 
-## Skills
-- Figma
-- Design
+My name is Myat Linn.
+I have experience in Design development and project.
 
-## Current Goals
-- Improve System Design Skills
-- Learn AI Agents and Automation
-- Contribute to Open Source
-
+I am excited to contribute and learn from the community.
